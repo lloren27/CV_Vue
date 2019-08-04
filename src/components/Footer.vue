@@ -13,7 +13,7 @@ export default {
 </script>
 <style>
 .footer-container {
-  background-color: blue;
+  background-color: #8dd5b5;
   padding: 10px;
   opacity: 0.6;
   margin: 0 auto;

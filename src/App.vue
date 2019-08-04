@@ -1,8 +1,8 @@
 <template>
   <div id="app">
+    <Presentation msg="Carlos Llorente CV´s" />
     <Directions />
     <Contact />
-    <Presentation msg="Carlos Llorente CV´s" />
     <router-view></router-view>
     <img
       alt="Vue logo"
@@ -40,7 +40,7 @@ export default {
   margin-top: 60px;
 }
 .photo {
-  width: 50%;
+  width: 35%;
   border-radius: 5px;
 }
 </style>
