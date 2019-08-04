@@ -1,0 +1,34 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "Optimiza Recursos",
+      "date": "2014-2015",
+      "description": "Creación de informes energeticos y estudios de iluminación LED"
+    },
+    {
+      "id": 2,
+      "title": "Ledit Eficiencia Energética",
+      "date": "2015-2017",
+      "description": "Estudios de iluminación, sustitución de iluminación convencional por LED ,seguimiento de la instalación, control de materiales y estudios de consumo energetico"
+    },
+    {
+      "id": 3,
+      "title": "Decathlon",
+      "date": "Septiembre 2017 - Marzo 2018",
+      "description": "Preparación de pedidos online, picking de producto para tienda"
+    },
+    {
+      "id": 4,
+      "title": "IESA (Informatización de Empresas)",
+      "date": "Junio 2018 - Diciembre 2018",
+      "description": " Desarrollador junior, formando parte del equipo de tucomunidad.com , proyecto con el front en AngularJS y el backend en C#, mi labor principal consistia en solucionar issues reportados por el equipo de pruebas, solucionando bugs tanto de diseño como de mal comportamiento de los componentes "
+    },
+    {
+      "id": 5,
+      "title": "Quantion",
+      "date": "Diciembre 2018 - Actualmente",
+      "description": " Desarrollador Full Stack, formando parte del equipo de una aplicación de gestión de contenidos publicitarios , proyecto con el front en Angular 7 y el backend en nodejs, mi labor es la de desarrollar las nuevas funcionalidades propuestas desde el cliente para satisfacer las distintas necesidades del cliente , creación de componentes servicios y rutas. Estilos con less"
+    }
+  ]
+}
