@@ -87,7 +87,7 @@ export default {
   }
 }
 .md-alignment-center {
-  margin-bottom: 90px;
+  margin-bottom: 30px;
 }
 .logo {
   width: 45%;

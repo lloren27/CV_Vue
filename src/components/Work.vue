@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div v-for="work in works" class="work">
+  <div class="work">
+    <div v-for="work in works">
       <h3 class="title">{{ work.title }}</h3>
       <p class="date">{{ work.date }}</p>
       <div class="description-container">
@@ -28,6 +28,8 @@ export default {
 </script>
 <style>
 .work {
+  float: left;
+  width: 50%;
 }
 .title {
   display: inline;
@@ -37,9 +39,8 @@ export default {
   margin-left: 24px;
 }
 .description {
-  width: 50%;
-  margin: 0 auto;
-  margin-bottom: 15px !important;
+  margin-left: 20px;
+  text-align: justify;
 }
 .description-container {
   text-align: center;

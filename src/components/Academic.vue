@@ -24,7 +24,7 @@ export default {
 .academic {
 }
 .list {
-  width: 25%;
+  width: 35%;
   margin: 0 auto;
 }
 </style>

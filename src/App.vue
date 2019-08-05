@@ -4,11 +4,13 @@
     <Directions />
     <Contact />
     <router-view></router-view>
-    <img
-      alt="Vue logo"
-      src="https://res.cloudinary.com/lloren27/image/upload/v1564856292/lloren/IMG_3196.jpg"
-      class="photo"
-    />
+    <div>
+      <img
+        alt="Vue logo"
+        src="https://res.cloudinary.com/lloren27/image/upload/v1564856292/lloren/IMG_3196.jpg"
+        class="photo"
+      />
+    </div>
     <Footer />
   </div>
 </template>
