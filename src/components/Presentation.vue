@@ -29,13 +29,12 @@ a {
 }
 .presentation {
   background-color: #8dd5b5;
-  height: 6%;
+  height: 10%;
   opacity: 0.6;
-  position: absolute;
-  left: 0;
-  bottom: 802px;
-  width: 100%;
   text-align: center;
   color: black;
+  position: absolute;
+  width: 100%;
+  top: -62px;
 }
 </style>

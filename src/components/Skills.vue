@@ -1,5 +1,5 @@
 <template>
-  <div class="jose">
+  <div>
     <div class="md-layout md-gutter md-alignment-center">
       <div
         class="md-layout-item md-medium-size-33 md-small-size-50 md-xsmall-size-100"

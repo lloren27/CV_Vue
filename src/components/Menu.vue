@@ -28,12 +28,13 @@
 
 <script>
 export default {
-  name: "Directions"
+  name: "Menu"
 };
 </script>
 
 <style lang="scss" scoped>
 .enlace:hover {
+  opacity: 0.6;
   text-decoration: none !important;
   color: black;
 }

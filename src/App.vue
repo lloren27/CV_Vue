@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Presentation msg="Carlos Llorente CV´s" />
-    <Directions />
+    <Menu />
     <Contact />
     <router-view></router-view>
     <div>
@@ -18,7 +18,7 @@
 <script>
 import Presentation from "./components/Presentation.vue";
 import Contact from "./components/Contact.vue";
-import Directions from "./components/Directions.vue";
+import Menu from "./components/Menu.vue";
 import Footer from "./components/Footer.vue";
 
 export default {
@@ -26,7 +26,7 @@ export default {
   components: {
     Presentation,
     Contact,
-    Directions,
+    Menu,
     Footer
   }
 };

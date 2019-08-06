@@ -1,6 +1,5 @@
 <template>
   <div class="academic">
-    <h1>Experiencia academica</h1>
     <ul class="list">
       <li>
         <h5>Licenciado en Ciencias Ambientales 2007-2013</h5>
@@ -26,5 +25,7 @@ export default {
 .list {
   width: 35%;
   margin: 0 auto;
+  list-style: none;
+  padding: 0;
 }
 </style>
